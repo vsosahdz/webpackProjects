@@ -1,12 +1,19 @@
 {
-  "name": "tema2",
+  "name": "proyecto1",
   "version": "1.0.0",
-  "description": "",
+  "description": "mi primer proyecto en nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "nodejs",
+    "express",
+    "helloworld"
+  ],
+  "author": "VASH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
